@@ -22,7 +22,7 @@ If you'd like to add a fully customized portraits of your own, you should follow
     - Open the tool and `Select "$47 Interface"` from the "Type" drop down menu in the top centre of the window
     - Go to the `"Frames"` tab in the window and navigate to your images (small and large portraits)
     - Go back to the `"General"` tab and check the `Bitmaps box`, then press `ctrl+A` & `Enter`
-     <br/>(also make sure to turn off transparency as it may negatively affect the portraits)
+     <br/>(also make sure to turn off transparency as it may negatively affect the portraits; additionally the portraits use 256-color bitmaps and the first color will always be treated as a transparency layer)
     - create an export folder; if you make it the same as the import folder, it will OVERWRITE your images! So be careful!
     - click the little icon next to the "..." at the end of the "Bitmaps" area that says `"Prepare Pictures By One"`
 3. Import your new portraits as mentioned above
