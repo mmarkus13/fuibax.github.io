@@ -27,6 +27,10 @@ If you'd like to add a fully customized portraits of your own, you should follow
     - click the little icon next to the "..." at the end of the "Bitmaps" area that says `"Prepare Pictures By One"`
 3. Import your new portraits as mentioned above
 
+
+### Meme heroes:
+Inline-style: 
+![meme heroes](https://github.com/mmarkus13/fuibax.github.io/blob/main/meme%20heroes.png)
 <!--
 no comment
 -->
