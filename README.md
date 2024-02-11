@@ -29,7 +29,6 @@ If you'd like to add a fully customized portraits of your own, you should follow
 
 
 ### Meme heroes:
-Inline-style: 
 ![meme heroes](https://github.com/mmarkus13/fuibax.github.io/blob/main/meme%20heroes.png)
 <!--
 no comment
